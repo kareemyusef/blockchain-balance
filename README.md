@@ -5,7 +5,7 @@ This is a markdown documentation of a Blockchain wallet in Corda. There are 3 se
 2. Wallet Documentation
 3. Integration Examples 
 
-The files referenced are part of folders called "tester-cordapp" and "cordapp-SingleParty_BalanceDB". The former is a *built* (see Integration) tester cordapp that contains a build folder for local development. The latter is a folder containing the specific flows, states, contract and client files that are used to build the CorDapp.
+The files referenced are part of folders called "tester-cordapp" and "java". The former is a *built* (see Integration) tester cordapp that contains a build folder for local development. The latter is a folder containing the specific flows, states, contract and client files that are used to build the CorDapp.
 
 Note on accounts: Corda has support for accounts, which allows for multiple parties to be involved in separate ledgers on a single node, which is applicable to this project. Currently, this cordapp does not take advantage of party functionality on Corda.
 
