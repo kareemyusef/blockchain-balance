@@ -1,4 +1,4 @@
-# Summer 22 Blockchain Internship
+# Corda Blockchain Wallet
 ## Overview
 This is a markdown documentation of a Blockchain wallet in Corda. There are 3 sections:
 1. Explanation of Corda Blockchain
